@@ -5,8 +5,11 @@
       <module name="com.github.protobufel.extended-regex_jmh" target="1.8" />
       <module name="com.github.protobufel.extended-regex_main" target="1.8" />
       <module name="com.github.protobufel.extended-regex_test" target="1.8" />
+      <module name="com.github.protobufel.protobufel-test-protos_descriptor" target="1.8" />
+      <module name="com.github.protobufel.protobufel-test-protos_descriptorWithSource" target="1.8" />
       <module name="com.github.protobufel.protobufel-test-protos_jmh" target="1.8" />
       <module name="com.github.protobufel.protobufel-test-protos_main" target="1.8" />
+      <module name="com.github.protobufel.protobufel-test-protos_mainWith" target="1.8" />
       <module name="com.github.protobufel.protobufel-test-protos_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
